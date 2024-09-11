@@ -4,15 +4,17 @@
 
 <h1 align="center">enhancedvanilla.tk</h1>
 
-Where it all started 🥲. This is the repo for the website of my Minecraft server (July, 2019).
+Repo for the website of my Minecraft server (July, 2019).
+
+Where it all started 🥲.
 
 ## ✨ Features
 
 -   ⚡️ Lightning fast (100kB)
--   🌍 Live Minecraft Map Viewer
--   🙋 Live Player Counter
+-   🌍 Live Minecraft map viewer
+-   🙋 Live player counter
+-   💵 Tebex in-game store
 -   🗺 Responsive design
--   🎨 jQuery - JavaScript library
 -   🍿 Animated hero page
 
 ## ✍🏻 Author
